@@ -24,7 +24,6 @@ A simple Streamlit web application that uses machine learning to predict whether
 
 ---
 
-## 🛠️ Setup Instructions
 
 ### 🔹 Prerequisites
 - Python 3.x
@@ -32,13 +31,4 @@ A simple Streamlit web application that uses machine learning to predict whether
 - `scikit-learn`
 - `streamlit`
 
-### 🔹 Installation
-
-```bash
-# Clone the repository (or just download the files)
-git clone https://github.com/yourusername/heart-attack-predictor.git
-cd heart-attack-predictor
-
-# Install dependencies
-pip install -r requirements.txt
 
